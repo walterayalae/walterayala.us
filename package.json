@@ -1,47 +1,32 @@
 {
   "name": "walterayala.us",
   "version": "1.0.0",
-  "description": "Walter's Website",
-  "main": "client/main.js",
-  "babel": {
-    "presets": [
-      "es2015",
-      "react"
-    ]
-  },
-  "scripts": {
-    "start": "nodemon server/ --ignore client/"
-  },
-  "author": "Walter <walterayalae43@gmail.com>",
-  "license": "MIT",
+  "description": "(Personal Website)",
+  "main": "app.js",
   "dependencies": {
-    "babel-core": "^6.9.1",
-    "babel-preset-es2015": "^6.9.0",
-    "babel-preset-react": "^6.5.0",
-    "babelify": "^7.3.0",
-    "bluebird": "^3.2.2",
-    "body-parser": "^1.14.1",
-    "browserify-middleware": "^7.0.0",
-    "express": "^4.12.4",
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
-    "scssify": "^2.1.0"
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
+    "nodemon": "^1.11.0"
   },
-  "devDependencies": {
-    "nodemon": "^1.3.7",
-    "react-addons-test-utils": "^15.3.2"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/walterayalae/walterayala.us"
+    "url": "git+https://github.com/walterayalae/walterayala.us.git"
   },
   "keywords": [
-    "website",
-    "browserify",
-    "express"
+    "(Walters",
+    "Website)"
   ],
+  "author": " (Walter Ayala)",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/walterayalae/walterayala.us/issues"
   },
-  "homepage": "https://github.com/walterayalae/walterayala.us"
+  "homepage": "https://github.com/walterayalae/walterayala.us#readme"
 }

@@ -1,0 +1,42 @@
+#imgWalt {
+	height: 210px;
+    width: 55%;
+    margin-left: 100px;
+    border-radius: 8px;
+
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	display: inline-block;
+}
+
+#title {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	display: inline-block;
+
+}
+
+.row1 {
+	display:inline-block;
+}
+
+#qc {
+	height: 285px;
+    width: 50%;
+    border-radius: 50%;
+}
+
+#cr {
+	height: 268px;
+    width: 75%;
+    border-radius: 50%;
+
+}
+
+.media-object {
+	width: 100px;
+	padding-left: 30px;
+}
