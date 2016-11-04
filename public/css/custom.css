@@ -1,26 +1,67 @@
+
+/*
+ * Globals
+ */
+
+body {
+  height: 100%;
+  background-color: #333;
+}
+
+/*
+*Navigation bar
+ */
+.navbar {
+	padding-top: 50px;
+}
+.breadcrumb {
+	font-size: 20px;
+}
+
 #imgWalt {
-	height: 210px;
-    width: 55%;
+	padding-top: 60px;
+	height: 330px;
+    width: 70%;
     margin-left: 100px;
     border-radius: 8px;
 
 }
 
-h2 {
+.contact1 {
+	padding-left: 60px;
+}
+
+.contact2 {
+	list-style: none;
+	padding-top: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	font-color:white;
+}
+
+h1 {
 	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 	display: inline-block;
+	color: white;
 }
 
 #title {
 	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 	display: inline-block;
+	color: white;
+	padding-top: 150px;
 
 }
 
 .row1 {
 	display:inline-block;
+
+}
+
+.media-body {
+	color: white;
 }
 
 #qc {
@@ -40,3 +81,8 @@ h2 {
 	width: 100px;
 	padding-left: 30px;
 }
+
+.cover {
+	background-image: url("https://wallpaperscraft.com/image/imac_apple_computer_table_cup_notebook_109176_1600x900.jpg");
+	padding-bottom: 300px;
+	}
