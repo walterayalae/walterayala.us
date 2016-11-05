@@ -5,7 +5,7 @@
 
 body {
   height: 100%;
-  background-color: #333;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 /*
@@ -18,8 +18,13 @@ body {
 	font-size: 20px;
 }
 
+#email {
+	padding-left: 400px;
+	font-weight: bold;
+}
+
 #imgWalt {
-	padding-top: 60px;
+	padding-top: 50px;
 	height: 330px;
     width: 70%;
     margin-left: 100px;
@@ -33,21 +38,19 @@ body {
 
 .contact2 {
 	list-style: none;
-	padding-top: 50px;
+	padding-top: 10px;
 	font-size: 20px;
 	font-weight: bold;
 	font-color:white;
 }
 
 h1 {
-	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 	display: inline-block;
 	color: white;
 }
 
 #title {
-	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 	display: inline-block;
 	color: white;
@@ -55,13 +58,21 @@ h1 {
 
 }
 
+.experience {
+	border-style: solid;
+	height:100%;
+}
 .row1 {
 	display:inline-block;
+	background-color: #333;
 
+}
+.media{
+	padding-left: 30%;
 }
 
 .media-body {
-	color: white;
+	font-size: 16px;
 }
 
 #qc {
