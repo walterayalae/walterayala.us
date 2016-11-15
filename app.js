@@ -8,13 +8,12 @@ var app = express();
 
     app.set('port', process.env.PORT || 8080);
     app.set('views', __dirname + '/views');
-    app.set('view engine', 'html');
     app.use(express.static(path.join(__dirname, 'public')));
 
 // Render our home page with all blog posts
 app.get('/', function(request, response) {
         
-            response.render('index')
+            response.render('index.html')
         
 });
 
