@@ -1,0 +1,125 @@
+
+/*
+ * Globals
+ */
+
+body {
+  height: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+	text-align: center;
+}
+
+/*
+*Navigation bar
+ */
+
+
+.navbar {
+	padding-top: 50px;
+}
+.breadcrumb {
+	font-size: 20px;
+}
+
+#email {
+	padding-left: 400px;
+	font-weight: bold;
+}
+
+#imgWalt {
+	padding-top: 50px;
+	height: 330px;
+    width: 70%;
+    margin-left: 100px;
+    border-radius: 8px;
+
+}
+
+.contact1 {
+	padding-left: 60px;
+}
+
+.contact2 {
+	list-style: none;
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	font-color:white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+#title {
+	text-align: center;
+	display: inline-block;
+	color: white;
+	padding-top: 150px;
+
+}
+
+p {
+	text-align: center;
+}
+
+ul {
+	font-size: 18px;
+	text-align: left;
+}
+
+.experience {
+	height:100%;
+	border-right:solid;
+	border-width: 3px;
+	border-right-color:gray;
+	padding-right:20px;
+	margin-left: 20px;
+}
+
+.media-body {
+	font-size: 16px;
+}
+
+#qc {
+	height: 285px;
+    width: 50%;
+    border-radius: 50%;
+}
+.projects{
+	background-color: #056198;
+	color:white;
+	height:500px;
+	text-align: center;
+	padding-left: 30px;
+}
+#cr {
+	height: 268px;
+    width: 75%;
+    border-radius: 50%;
+
+}
+
+.media-object {
+	width: 100px;
+	padding-left: 30px;
+}
+
+.cover {
+	background-image: url("https://wallpaperscraft.com/image/imac_apple_computer_table_cup_notebook_109176_1600x900.jpg");
+	padding-bottom: 300px;
+	}
+
+.footer {
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
+  text-align: center;
+  padding-bottom: 500px;
+}
+
+span {
+	font-size: 18px;
+}

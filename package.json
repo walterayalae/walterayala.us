@@ -1,0 +1,33 @@
+{
+  "name": "walterayala.us",
+  "version": "1.0.0",
+  "description": "(Personal Website)",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
+    "nodemon": "^1.11.0",
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterayalae/walterayala.us.git"
+  },
+  "keywords": [
+    "(Walters",
+    "Website)"
+  ],
+  "author": " (Walter Ayala)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterayalae/walterayala.us/issues"
+  },
+  "homepage": "https://github.com/walterayalae/walterayala.us#readme"
+}
