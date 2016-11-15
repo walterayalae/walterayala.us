@@ -95,7 +95,7 @@ span {
 
 #imgWalt {
     padding-top: 50px;
-    height: 330px;
+    height: 300px;
     width: 70%;
     margin-left: 100px;
     border-radius: 8px;
@@ -173,6 +173,7 @@ span {
     background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
     text-align: center;
     padding-bottom: 500px;
+    font-size: 20px;
 }
 
 
