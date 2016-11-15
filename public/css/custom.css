@@ -15,6 +15,8 @@ h2 {
 /*
 *Navigation bar
  */
+
+
 .navbar {
 	padding-top: 50px;
 }
@@ -50,7 +52,6 @@ h2 {
 
 h1 {
 	text-align: center;
-	display: inline-block;
 	color: white;
 }
 
@@ -62,25 +63,22 @@ h1 {
 
 }
 
-.summary {
-	padding-left: 180px;
-	display:inline-block;
+p {
+	text-align: center;
 }
 
-#projects{
-	color:white;
+ul {
+	font-size: 18px;
+	text-align: left;
 }
+
 .experience {
-	border-style: solid;
 	height:100%;
-}
-.row1 {
-	display:inline-block;
-	background-color: #333;
-
-}
-.media{
-	padding-left: 30%;
+	border-right:solid;
+	border-width: 3px;
+	border-right-color:gray;
+	padding-right:20px;
+	margin-left: 20px;
 }
 
 .media-body {
@@ -92,7 +90,13 @@ h1 {
     width: 50%;
     border-radius: 50%;
 }
-
+.projects{
+	background-color: #056198;
+	color:white;
+	height:500px;
+	text-align: center;
+	padding-left: 30px;
+}
 #cr {
 	height: 268px;
     width: 75%;
@@ -114,4 +118,8 @@ h1 {
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
   text-align: center;
   padding-bottom: 500px;
+}
+
+span {
+	font-size: 18px;
 }

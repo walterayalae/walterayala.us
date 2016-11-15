@@ -9,7 +9,8 @@
     "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
     "multer": "^1.2.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "normalize.css": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
