@@ -29,6 +29,10 @@ span {
     font-size: 18px;
 }
 
+a {
+    color: white;
+}
+
 
 /*
 
@@ -60,10 +64,16 @@ span {
 
 .navbar {
     padding-top: 50px;
+
+
 }
 
 .breadcrumb {
     font-size: 20px;
+    background-color: gray;
+    border-color: black;
+    border-top: solid;
+    border-bottom: solid;
 }
 
 #email {
@@ -152,13 +162,19 @@ span {
  */
 
 .projects {
-    background-color: #056198;
+    background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
     color: white;
     height: 500px;
     text-align: center;
-    padding-left: 30px;
+    padding: 10 30 10 30;
+
 }
 
+.text {
+     background: rgba(0, 0, 0, 0.5);
+     height: 500px;
+     
+}
 
 /*
 
@@ -170,12 +186,11 @@ span {
  */
 
 .footer {
-    background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
+    background-image: url("http://edu.stemjobs.com/wp-content/uploads/2015/05/coding.jpg");
     text-align: center;
-    padding-bottom: 500px;
+    padding-bottom: 450px;
     font-size: 20px;
 }
-
 
 /*
 
