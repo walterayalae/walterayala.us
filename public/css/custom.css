@@ -70,8 +70,8 @@ a {
 
 .breadcrumb {
     font-size: 20px;
-    background-color: gray;
-    border-color: black;
+    background-color: black;
+    border-color: gray;
     border-top: solid;
     border-bottom: solid;
 }
@@ -162,7 +162,7 @@ a {
  */
 
 .projects {
-    background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
+    background-image: url("http://edu.stemjobs.com/wp-content/uploads/2015/05/coding.jpg");
     color: white;
     height: 500px;
     text-align: center;
@@ -171,7 +171,7 @@ a {
 }
 
 .text {
-     background: rgba(0, 0, 0, 0.5);
+     background: rgba(0, 0, 0, 0.8);
      height: 500px;
      
 }
@@ -186,7 +186,7 @@ a {
  */
 
 .footer {
-    background-image: url("http://edu.stemjobs.com/wp-content/uploads/2015/05/coding.jpg");
+    background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg");
     text-align: center;
     padding-bottom: 450px;
     font-size: 20px;
